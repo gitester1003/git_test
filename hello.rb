@@ -8,5 +8,5 @@ while a < 15
     end
     a = a + 1
 end
-print "\n"
+print "\n\n"
 
